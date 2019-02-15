@@ -6,14 +6,9 @@
 #### 配置百度云秘钥
 	$ vi config.py 
 ```
-# 百度云后台获取
 AK = 'xxxxxxxxx'
-# 百度云后台获取
 SK = 'xxxxxxxxxx'
-# CFC 函数名称
 FUNCTION_NAME = 'xxxxxxxx'
-# 打包忽略文件
-IGNORE_FILES = ['.git', '.idea', '.DS_Store', '.DS_Store', '.gitignore', 'baidubce', 'Crypto.zip']
 ```
 #### 打包并上传技能
 	$ python packaging.py
