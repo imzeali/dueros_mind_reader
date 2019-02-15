@@ -1,0 +1,81 @@
+{
+  "version": "v2.0",
+  "session": {
+    "new": true,
+    "sessionId": "0148226f-e3c6-4f9d-88d1-1346fbc415ff"
+  },
+  "context": {
+    "System": {
+      "user": {
+        "userId": "57761416",
+        "userInfo": {
+          "account": []
+        }
+      },
+      "application": {
+        "applicationId": "8a4c3c25-b6a7-d08d-8cf8-35a0f5fb6bc7"
+      },
+      "device": {
+        "deviceId": "b8b38f4e2087eb6c9427f0a3ddf3c3c7",
+        "supportedInterfaces": {
+          "VoiceInput": [],
+          "VoiceOutput": [],
+          "AudioPlayer": [],
+          "Display": []
+        },
+        "TVControl": {
+          "controlType": "DCSControl",
+          "controlStatus": 0
+        }
+      },
+      "apiAccessToken": "bxQ22IRYUNZJWMkcks8qKS9OOQcLm2JUwgv5C6EotkmxS/cSrLSxzyHCwnBfh7HyZYnUJYMUuRaR72kaMyJHLrvS3IfaSumO01dkdoiCA8THlQsV5loEHbxZ9m8agfM/xPIG32Q4JRYZUTbhBrKuYtNmIj8OA1XZyXJ16Stow4cWT/g/MlLihaCp4eQqXMgMdVOsH61Q1lK699hAmyXy8efPZ95sbjAiIXJ756hMGrc8hAYwGLRibhUDP+nSQLchw3Kb/GQg1atq2gDwe4bf550bcs7G0ZeBkC38st3hXSrmDcmc+gwJIG6iX3RjTJHbFP2LKCr0037ejJivlmsN44WF+6dlDIAn0yUChVqV2znxj/Q8ByNxsmRPqS1VU29/ABjvibfLEU4TsgjCtTlkVA==",
+      "apiEndPoint": "https://xiaodu.baidu.com",
+      "avaliableApplicationIds": [
+        "doudi_server",
+        "phone",
+        "aries_general",
+        "ai.dueros.bot.alarm",
+        "duer_weather",
+        "sac",
+        "restaurant_bot",
+        "o2o_satisfy",
+        "rent_car",
+        "travel_server",
+        "recharge",
+        "online_shopping",
+        "hotel",
+        "baojie",
+        "nba_search",
+        "sysprofile_service",
+        "audio_music",
+        "ai.dueros.bot.timer",
+        "audio_unicast",
+        "audio_live",
+        "ai.dueros.bot.vocal_joke",
+        "ai.dueros.bot.smarthome",
+        "speaker_hardware",
+        "audio_news"
+      ]
+    },
+    "Screen": {
+      "token": "",
+      "card": {
+        "title": "扫雷",
+        "content": "欢迎使用扫雷",
+        "image": "",
+        "type": "standard"
+      }
+    }
+  },
+  "request": {
+    "query": {
+      "type": "TEXT",
+      "original": "TESTING"
+    },
+    "type": "LaunchRequest",
+    "requestId": "ff2f5cc893cf47039690a6ddc6743c5f_0#1_0",
+    "timestamp": "1542780213",
+    "dialogRequestId": "3f4c06c8-6813-492f-a987-bb78b0cacb9e"
+  },
+  "nlu": {}
+}
