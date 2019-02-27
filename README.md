@@ -13,7 +13,7 @@ FUNCTION_NAME = 'xxxxxxxx'
 #### 打包并上传技能
 	$ python package.py
 	
-#### 技能交互模型分享
+#### 技能交互模型分享地址导入
   https://dueros.baidu.com/dbp/main/console?shareCode=pJjcWbx
   
 ## 其他
